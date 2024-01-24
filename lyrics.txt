@@ -13,4 +13,4 @@ Lyric 2
 Lyric 3
 
 ////////
-Yeah, should´t place blank lines on the default file, yeaaaaaaaaaaaaaaaaahhhhhh
+Yeah, shouldn´t place blank lines on the default file, yeaaaaaaaaaaaaaaaaahhhhhh
